@@ -19,10 +19,10 @@ int main()
 
     cout << pow(2, 10) << endl; // Potenciranje
     cout << sqrt(4) << endl; // Drugi korijen
-    cout << cbrt(4) << endl; // Treæi korijen
+    cout << cbrt(4) << endl; // TreÃ¦i korijen
     cout << hypot(5, 5) << endl; // Hipotenuza pravokutnog trokuta
     cout << abs(-456) << endl; // Apsolutna vrijednost
-    cout << round(3.5) << endl; // Zaokruivanje broja
+    cout << round(3.5) << endl; // ZaokruÅ¾ivanje broja
     cout << ceil(3.1) << endl;
     cout << floor(3.9) << endl;
 
