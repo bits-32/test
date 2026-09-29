@@ -23,7 +23,7 @@ int main()
 
     cout << "Hipotenuza je: " << c << endl;
     cout << "Opseg trokuta je: " << opseg << endl;
-    cout << "Površina trokuta je " << povrsina << endl;
+    cout << "Povrsina trokuta je " << povrsina << endl;
     cout << "Kut nasuprot kateti a je: " << nasuprotniKut << " stupnjeva\n";
 
 
