@@ -21,7 +21,7 @@ int main()
     nasuprotniKut = asin(a / c) * (180 / pi);
     povrsina = (a * b) / 2;
 
-    cout << "Hipotenuza je: " << c << endl;
+    cout << "\nHipotenuza je: " << c << endl;
     cout << "Opseg trokuta je: " << opseg << endl;
     cout << "Povrsina trokuta je " << povrsina << endl;
     cout << "Kut nasuprot kateti a je: " << nasuprotniKut << " stupnjeva\n";
