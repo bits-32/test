@@ -1,0 +1,16 @@
+Pitanja za razumijevanje
+
+1. Koje su dvije promjenjive globalne varijable u programu, a koje su globalne konstante?
+Dvije promjenjive globalne varijable su ukupnoUlaznica i ukupniPrihod, a globalne konstante su
+CIJENA_ULAZNICE, PRAG_POPUSTA i STOPA_POPUSTA.
+
+2. Navedi dvije lokalne varijable iz izracunajIznos(). Može li im main() pristupiti izravno?
+Objasni.
+Lokalke varijable iz izracunajIznos(): osnovniIznos i konacniIznos. Funkcija main() im ne može
+izravno pristupiti jer varijable ne postoje izvan bloka definicije funkcije.
+
+3. Je li parametar kolicina lokalni ili globalni naziv? Je li isti objekt u svim funkcijama?
+Parametar kolicina je
+
+4. Zašto izracunajIznos() vraća double, a evidentirajKupnju() ima povratni tip void?
+5. Što treba promijeniti ako ulaznica poskupi na 6 EUR?
