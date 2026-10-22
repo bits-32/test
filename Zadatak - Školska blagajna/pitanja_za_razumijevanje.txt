@@ -6,7 +6,7 @@ CIJENA_ULAZNICE, PRAG_POPUSTA i STOPA_POPUSTA.
 
 2. Navedi dvije lokalne varijable iz izracunajIznos(). Može li im main() pristupiti izravno?
 Objasni.
-Lokalke varijable iz izracunajIznos(): osnovniIznos i konacniIznos. Funkcija main() im ne može
+Lokalne varijable iz izracunajIznos(): osnovniIznos i konacniIznos. Funkcija main() im ne može
 izravno pristupiti jer varijable ne postoje izvan bloka definicije funkcije.
 
 3. Je li parametar kolicina lokalni ili globalni naziv? Je li isti objekt u svim funkcijama?
