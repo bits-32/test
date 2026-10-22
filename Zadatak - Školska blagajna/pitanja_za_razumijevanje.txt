@@ -10,7 +10,11 @@ Lokalke varijable iz izracunajIznos(): osnovniIznos i konacniIznos. Funkcija mai
 izravno pristupiti jer varijable ne postoje izvan bloka definicije funkcije.
 
 3. Je li parametar kolicina lokalni ili globalni naziv? Je li isti objekt u svim funkcijama?
-Parametar kolicina je
+Parametar kolicina je lokalni naziv. U svim funkcijama isti je objekt.
 
 4. Zašto izracunajIznos() vraća double, a evidentirajKupnju() ima povratni tip void?
+izracunajIznos() vraća double jer funkcija treba vratiti izračunatu vrijednost, a 
+evidentirajKupnju() ima povratni tip void jer ne treba vraćati vrijednosti.
+
 5. Što treba promijeniti ako ulaznica poskupi na 6 EUR?
+Globalnu konstantu CIJENA_ULAZNICE.
